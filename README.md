@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+[![Kicks11jr's GitHub stats](https://github-readme-stats.vercel.app/api?username=kicks11jr)](https://github.com/kicks11jr/github-readme-stats)
 
 <!--
 **Kicks11jr/kicks11jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
