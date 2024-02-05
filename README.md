@@ -12,7 +12,7 @@
  
 🌱 I’m currently learning **Typescript, Docker, Supabase**
 
-💡 Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💡 Fun fact **The sound of ice dragons in Game Of Throne is from drunk fans**
 
  </div>
  
